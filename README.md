@@ -5,7 +5,7 @@ Put the lime in the coconut and fuck it all up.
 
 POO POO POO POO POO 
 
-poo{
+poo(){
   var pissflaps = 0;
   return pissflaps;
   }
